@@ -5,6 +5,8 @@
   background-color: #FFFFFF;
   border-radius: 100px;
   z-index: 2;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
 }
 
 .toggle_div{
@@ -24,4 +26,5 @@
   top: 5px;
   border-radius: 12px;
   z-index: 1;
+
 }

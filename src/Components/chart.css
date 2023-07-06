@@ -1,6 +1,7 @@
 .chart_div{
     display: flex;
     flex-direction: column;
+
 }
 
 .chart_header_div{

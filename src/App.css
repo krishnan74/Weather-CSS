@@ -25,6 +25,8 @@ body {
   height: 94%;
   width: 1080px;
   margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 38px;
   
 }
 
@@ -163,6 +165,8 @@ body {
   border-radius: 24px;
   margin-left: 35px;
   margin-top: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
 }
 
 .weather_props_div{
